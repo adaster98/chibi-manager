@@ -13,4 +13,5 @@ DISCLAIMER: This is AI generated code, your choice if you want to use it, or per
 - You can save them (stored in .config) so you can respawn them later on.
 
 Make sure you have `GTK4` and `gtk4-layer-shell` installed for this to work!
+
 Tray icon might not show for GNOME users, install AppIndicator Support Extension. Should work fine with waybar and such.
