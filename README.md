@@ -8,7 +8,7 @@ DISCLAIMER: This is AI generated code, your choice if you want to use it, or per
 - You can enable drag mode and move them wherever you like.
 
 Demo:
-https://github.com/user-attachments/assets/934eb9c6-c061-47a7-96be-e7a415c6899e
+<video src="https://github.com/user-attachments/assets/934eb9c6-c061-47a7-96be-e7a415c6899e" controls></video>
 
 
 
