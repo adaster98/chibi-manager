@@ -1,0 +1,8 @@
+[package]
+name = "chibi_spawner"
+version = "0.1.1"
+edition = "2021"
+
+[dependencies]
+gtk = { version = "0.8.2", package = "gtk4", features = ["v4_10"] }
+gtk4-layer-shell = "0.3"
