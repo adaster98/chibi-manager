@@ -7,6 +7,8 @@ DISCLAIMER: This is AI generated code, your choice if you want to use it, or per
 - You can enable click though, which makes them hide on mouse over for 3 seconds.
 - You can enable drag mode and move them wherever you like.
 
+Make sure you have `GTK4` and `gtk4-layer-shell` installed for this to work!
+
 Demo:
 <video src="https://github.com/user-attachments/assets/934eb9c6-c061-47a7-96be-e7a415c6899e" controls></video>
 
