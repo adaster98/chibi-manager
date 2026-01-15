@@ -1,4 +1,5 @@
-A cihibi manager/spawner for wayland using RUST and GTK4
+A cihibi manager/spawner for wayland using RUST and GTK4.
+
 DISCLAIMER: This is AI generated code, your choice if you want to use it, or perhaps make your own version!
 
 - You can spawn and despawn as many chibis as you like.
